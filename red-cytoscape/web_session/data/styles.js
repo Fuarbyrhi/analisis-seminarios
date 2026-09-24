@@ -2,7 +2,7 @@ var styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.10.4",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "default",
+  "title" : "old_default",
   "style" : [ {
     "selector" : "node",
     "css" : {
@@ -86,7 +86,7 @@ var styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.10.4",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "0_Marquee",
+  "title" : "default",
   "style" : [ {
     "selector" : "node",
     "css" : {
